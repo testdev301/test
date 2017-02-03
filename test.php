@@ -1,3 +1,4 @@
 <?php
-	echo "Hello developer";
+	echo "Get";
+	echo "Puts";
 ?>
